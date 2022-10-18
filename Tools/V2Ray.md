@@ -14,7 +14,7 @@ Linux and Windows : https://github.com/Qv2ray/Qv2ray/releases and https://github
  آموزش دسترسی به App Store جهت نصب برنامه برای آیفون با کمک نزدیکانتون که اندروید دارن (توضیحات)
 
 
-۱- ابتدا روی گوشی اندروید برنامه V2rayNG رو باز کرده و به setting (بالا سمت چپ دکمه ۳خط رو بزنین) بروید <div>
+۱- ابتدا روی گوشی اندروید برنامه V2rayNG رو باز کرده و به وی‌پی‌ان وصل بشید. به setting (بالا سمت چپ دکمه ۳خط رو بزنین) بروید <div>
  
 ۲- حال Allow connections from the LAN رو فعال کنین. همچنین HTTP Proxy Port رو برای مرحله ۸ به خاطر داشته باشین<div>
 
