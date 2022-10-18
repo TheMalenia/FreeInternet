@@ -9,8 +9,7 @@
 ### [لیست سرورها](config.md)
 
 اگر حرفی یا کمکی بود داخل ایشو بهم بگید. یا با لینک زیر بهم ناشناس بدید: <div>
-https://telegram.me/BChatBot?start=sc-742670-wH6OEPe
-<div>
+https://t.me/HarfinoBot?start=aa186b647a95d0b <div>
  یا ایمیل بزنید به : JinxPowder@protonmail.com
 <div>
  
