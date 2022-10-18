@@ -1,16 +1,34 @@
 
 
 ابتدا برنامه زیر نصب کنید
----
+<div>
 google play : https://play.google.com/store/apps/details?id=com.v2ray.ang
 <div>
-Download link : https://azadrah.s3.ir-thr-at1.arvanstorage.com/v2rayNG_1.7.20.apk
+Android Download link : https://azadrah.s3.ir-thr-at1.arvanstorage.com/v2rayNG_1.7.20.apk
 <div>
 App store : https://apps.apple.com/us/app/napsternetv/id1629465476
 <div>
-برای آموزش‌های بیشتر به کانال تلگراممون ریکویست بدین و بگید که اکسپت کنم:
-<div>
- https://t.me/+MPGF_qX2eZplY2Q0
-<div>
-بزودی همه آموزش‌ها رو به اینجا هم انتقال میدم.
+Linux and Windows : https://github.com/Qv2ray/Qv2ray/releases and https://github.com/v2fly/v2ray-core/releases
+ 
+ ### دسترسی به اپ استور ندارم. چه کنم؟
+ آموزش دسترسی به App Store جهت نصب برنامه برای آیفون با کمک نزدیکانتون که اندروید دارن (توضیحات)
+
+
+۱- ابتدا روی گوشی اندروید برنامه V2rayNG رو باز کرده و به setting (بالا سمت چپ دکمه ۳خط رو بزنین) بروید <div>
+ 
+۲- حال Allow connections from the LAN رو فعال کنین. همچنین HTTP Proxy Port رو برای مرحله ۸ به خاطر داشته باشین<div>
+
+۳- حال باید ip داخلی گوشی اندروید رو پیدا کنیم. برای اینکار به تنظیمات گوشی اندروید و بخش Networks بروید<div>
+
+۴- شبکه وایفایی که بهش متصل هستین رو پیدا کنین. و به تنظیمات آن شبکه بروید. دقت کنین گوشی آیفون هم باید به این شبکه متصل باشد<div>
+
+۵- حال ip داخلی گوشی اندروید رو پیدا کنین. معمولا این ip یا با 192 شروع میشود یا 10 یا 172. اینجا با 192 شروع میشه<div>
+
+۶- حالا کارمون با گوشی اندروید تمومه. بریم سراغ وصل کردن شبکه گوشی آیفون به اندروید. روی آیفون به تنظیمات شبکه wifi (که همان شبکه‌ای است که گوشی اندروید به آن وصل است بروید)
+۷- حال بر Configure Proxy کلیک کنین و حالت Manual رو بزنین<div>
+
+۸- حال در بخش Server، باید ip داخلی گوشی اندروید که در مرحله ۵ بدستش آوردیم وارد کنین. برای port هم از portی که در مرحله ۲ به دست آوردیم استفاده کنین<div>
+
+۹- حالا شما باید به اینترنت vpn دار گوشی اندروید دسترسی دارین. به app store برین و برنامه NapsternetV رو دانلود و نصب کنین.  پس از دانلود و نصب این برنامه، شما باید به مرحله 7 برگردید و تنظمیات http proxy رواز Manual به حالت Off برگردونین<div>
+
 
