@@ -19,8 +19,7 @@
 3. وارد برنامه shadowsocks بشید.
 4. بر روی دکمه (کاغذ با علامت +) کلیک کنید. گزینه ی Import From Clipboard رو بزنید.
 5. سپس پس از این کار سرور جدیدی به نمایش میاد. روی اون سرور کلیک کنید و در انتها علامت موشک کاغذی در پایین صفحه رو بزنید.
-### [لیست تمام سرورها](config.md)
-
+### [لیست تمام سرورها](https://github.com/TheMalenia/FreeInternet/blob/master/config.md)
 
 
 # آیفون و آیپد
@@ -43,8 +42,7 @@
 7. یکی از کدهای صفحه کانفیگ را رو کپی کنید.
 8. سپس برنامه Shadowrocket را باز کنید. اپلیکیشن به طور خودکار کد را شناسایی کرده و پس از تایید، آن را به لیست اضافه میکند.
 9. از قسمت Global Routing گزینه Proxy رو انتخاب کنید.
-### [لیست تمام سرورها](config.md)
-
+### [لیست تمام سرورها](https://github.com/TheMalenia/FreeInternet/blob/master/config.md)
 
 
 # ویندوز 
@@ -66,8 +64,7 @@
  3. برای اضافه کردن سرور مراحل 5,7,8,9,10 را دنبال کنید.
  4. دقت کنید که مسیر پلاگین حتما درست باشد.
  5. برای تغییر بین سرور های اضافه شده میتوانید روی ایکون Shaodwsocks کلیک راست کنید و از قسمت Server سرور های اضافه شده را ببینید و انتخاب کنید.
- ### [لیست تمام سرورها](config.md)
-
+### [لیست تمام سرورها](https://github.com/TheMalenia/FreeInternet/blob/master/config.md)
 </div>
 
 # لینوکس
@@ -122,4 +119,4 @@ export ALL_PROXY=socks://127.0.0.1:1080/
 export all_proxy=socks://127.0.0.1:1080/
 ```
 
-### [لیست تمام سرورها](config.md)
+### [لیست تمام سرورها](https://github.com/TheMalenia/FreeInternet/blob/master/config.md)
