@@ -1,5 +1,6 @@
 # Config
 
+[Join us on Telegram](https://t.me/+MPGF_qX2eZplY2Q0)
 
 ## 1. [V2Ray](Tools/V2Ray.md)
 > vmess://eyJhZGQiOiJvNC5hYmFzLXRhcmFnaGUuc3BhY2UiLCJhaWQiOiIwIiwiaG9zdCI6Im80LmFiYXMtdGFyYWdoZS5zcGFjZSIsImlkIjoiOGQ4ZWEyMDQtMmZjNi00MzE5LTljZjItNmMyZTE3ODBhMTkwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiNDQzIiwicHMiOiJSZXZvbHV0aW9uIFRMUyBTZWMiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6Im80LmFiYXMtdGFyYWdoZS5zcGFjZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
