@@ -1,56 +1,112 @@
-# Config
 
-[Join us on Telegram](https://t.me/+MPGF_qX2eZplY2Q0)
+# Configs
+## saman [V2Ray](Tools/V2Ray.md)
+> vmess://eyJhZGQiOiJuNC5hYmFzLXRhcmFnaGUuc3BhY2UiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGQ4ZWEyMDQtMmZjNi00MzE5LTljZjItNmMyZTE3ODBhMTkwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiNDQzIiwicHMiOiJBemFkaSBhYmFzIFRMUyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-## 1. [Tool: V2Ray](Tools/V2Ray.md)
-> vmess://eyJhZGQiOiJvNC5hYmFzLXRhcmFnaGUuc3BhY2UiLCJhaWQiOiIwIiwiaG9zdCI6Im80LmFiYXMtdGFyYWdoZS5zcGFjZSIsImlkIjoiOGQ4ZWEyMDQtMmZjNi00MzE5LTljZjItNmMyZTE3ODBhMTkwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiNDQzIiwicHMiOiJSZXZvbHV0aW9uIFRMUyBTZWMiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6Im80LmFiYXMtdGFyYWdoZS5zcGFjZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+> vmess://eyJhZGQiOiJuNC5hYmFzLXRhcmFnaGUuc3BhY2UiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGQ4ZWEyMDQtMmZjNi00MzE5LTljZjItNmMyZTE3ODBhMTkwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiODAiLCJwcyI6IkF6YWRpIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-
-## 2. [Tool: V2Ray](Tools/V2Ray.md)
-> vmess://eyJhZGQiOiJvNC5hYmFzLXRhcmFnaGUuc3BhY2UiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGQ4ZWEyMDQtMmZjNi00MzE5LTljZjItNmMyZTE3ODBhMTkwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiNDQzIiwicHMiOiJSZXZvbHV0aW9uIFRMUyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+> vmess://eyJhZGQiOiJzbmFwcGZvb2QuaXIiLCJhaWQiOiIwIiwiaG9zdCI6Im40LmFiYXMtdGFyYWdoZS5zcGFjZSIsImlkIjoiOGQ4ZWEyMDQtMmZjNi00MzE5LTljZjItNmMyZTE3ODBhMTkwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiNDQzIiwicHMiOiJBemFkaSBUTFMiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6InNuYXBwZm9vZC5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 
-## 3. [Tool: V2Ray](Tools/V2Ray.md)
-> vmess://eyJhZGQiOiJvNC5hYmFzLXRhcmFnaGUuc3BhY2UiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGQ4ZWEyMDQtMmZjNi00MzE5LTljZjItNmMyZTE3ODBhMTkwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiODAiLCJwcyI6IlJldm9sdXRpb24iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+> vmess://eyJhZGQiOiIxODUuMjE1LjIzNC4yIiwiYWlkIjoiMCIsImhvc3QiOiJuNC5hYmFzLXRhcmFnaGUuc3BhY2UiLCJpZCI6IjhkOGVhMjA0LTJmYzYtNDMxOS05Y2YyLTZjMmUxNzgwYTE5MCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjgwIiwicHMiOiJBemFkaSAyIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 
-## 4. aiohekl.monster [Tool: Shadowsocks](Tools/Shadowsocks.md)
-### Android
+> vmess://eyJhZGQiOiIxODUuMjE1LjIzNC4yIiwiYWlkIjoiMCIsImhvc3QiOiJuNC5hYmFzLXRhcmFnaGUuc3BhY2UiLCJpZCI6IjhkOGVhMjA0LTJmYzYtNDMxOS05Y2YyLTZjMmUxNzgwYTE5MCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjQ0MyIsInBzIjoiQXphZGkgMiBUTFMiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6Im40LmFiYXMtdGFyYWdoZS5zcGFjZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+
+> vmess://eyJhZGQiOiIxODUuMjE1LjIzNS4yIiwiYWlkIjoiMCIsImhvc3QiOiJuNC5hYmFzLXRhcmFnaGUuc3BhY2UiLCJpZCI6IjhkOGVhMjA0LTJmYzYtNDMxOS05Y2YyLTZjMmUxNzgwYTE5MCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjgwIiwicHMiOiJBemFkaSAzIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+
+> vmess://eyJhZGQiOiIxODUuMjE1LjIzNS4yIiwiYWlkIjoiMCIsImhvc3QiOiJuNC5hYmFzLXRhcmFnaGUuc3BhY2UiLCJpZCI6IjhkOGVhMjA0LTJmYzYtNDMxOS05Y2YyLTZjMmUxNzgwYTE5MCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjQ0MyIsInBzIjoiQXphZGkgMyBUTFMiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6Im40LmFiYXMtdGFyYWdoZS5zcGFjZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+
+> vmess://eyJhZGQiOiJzNC5zYWJ6aS5sb2wiLCJhaWQiOiIwIiwiaG9zdCI6InM0LnNhYnppLmxvbCIsImlkIjoiOGQ4ZWEyMDQtMmZjNi00MzE5LTljZjItNmMyZTE3ODBhMTkwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiODAiLCJwcyI6IkF6YWRpIDQiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+
+> vmess://eyJhZGQiOiJzNC5zYWJ6aS5sb2wiLCJhaWQiOiIwIiwiaG9zdCI6InM0LnNhYnppLmxvbCIsImlkIjoiOGQ4ZWEyMDQtMmZjNi00MzE5LTljZjItNmMyZTE3ODBhMTkwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiNDQzIiwicHMiOiJBemFkaSA0IFRMUyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoic25hcHBmb29kLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+
+> vmess://eyJhZGQiOiJqYWZhci5hbG9vbmFrLm1lIiwiYWlkIjoiMCIsImhvc3QiOiJqYWZhci5hbG9vbmFrLm1lIiwiaWQiOiI4ZDhlYTIwNC0yZmM2LTQzMTktOWNmMi02YzJlMTc4MGExOTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCIsInBvcnQiOiI0NDMiLCJwcyI6IkF6YWRpIDUgVExTIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiJzbmFwcGZvb2QuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+
+> vmess://eyJhZGQiOiJqYWZhci5hbG9vbmFrLm1lIiwiYWlkIjoiMCIsImhvc3QiOiJqYWZhci5hbG9vbmFrLm1lIiwiaWQiOiI4ZDhlYTIwNC0yZmM2LTQzMTktOWNmMi02YzJlMTc4MGExOTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCIsInBvcnQiOiI4MCIsInBzIjoiQXphZGkgNSIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+
+> vmess://eyJhZGQiOiIxODUuMTQzLjIzMy4xMjAiLCJhaWQiOiIwIiwiaG9zdCI6ImphZmFyLmFsb29uYWsubWUiLCJpZCI6IjhkOGVhMjA0LTJmYzYtNDMxOS05Y2YyLTZjMmUxNzgwYTE5MCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjgwIiwicHMiOiJBemFkaSA2Iiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+
+> vmess://eyJhZGQiOiIxODUuMTQzLjIzMy4xMjAiLCJhaWQiOiIwIiwiaG9zdCI6ImphZmFyLmFsb29uYWsubWUiLCJpZCI6IjhkOGVhMjA0LTJmYzYtNDMxOS05Y2YyLTZjMmUxNzgwYTE5MCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjQ0MyIsInBzIjoiQXphZGkgNiBUTFMiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6InNuYXBwZm9vZC5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+
+## aiohekl.monster [Shadowsocks](Tools/Shadowsocks.md)
+### Android 
 > ss://YWVzLTI1Ni1nY206WDhDZWN1Y2QyTUZtclJYVGJCcmk@aiohekl.monster:443?plugin=v2ray-plugin%3Bpath%3D%2Fredis%3Bhost%3Daiohekl.monster%3Btls
 ### IOS
 > ss://YWVzLTI1Ni1nY206WDhDZWN1Y2QyTUZtclJYVGJCcmlAYWlvaGVrbC5tb25zdGVyOjQ0Mw?tfo=1&v2ray-plugin=eyJwYXRoIjoiXC9yZWRpcyIsIm11eCI6dHJ1ZSwidGZvIjp0cnVlLCJob3N0IjoiYWlvaGVrbC5tb25zdGVyIiwibW9kZSI6IndlYnNvY2tldCIsInRscyI6dHJ1ZX0
 
-## 5. sarina.iinazlata.info [Tool: Shadowsocks](Tools/Shadowsocks.md)
+## sarina.iinazlata.info [Shadowsocks](Tools/Shadowsocks.md)
 ### Android
 > ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZE5jRHoxTWV2VEhjNVQxZFZuVFdKYWN2@sarina.iinazlata.info:443?plugin=v2ray-plugin%3Bpath%3D%2Findex%3Bmux%3D2%3Bloglevel%3Dnone%3Bhost%3Dsarina.iinazlata.info%3Btls#ForSarina
 ### IOS
 > ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZE5jRHoxTWV2VEhjNVQxZFZuVFdKYWN2QHNhcmluYS5paW5hemxhdGEuaW5mbzo0NDM?tfo=1&v2ray-plugin=eyJ0bHMiOnRydWUsIm11eCI6dHJ1ZSwibW9kZSI6IndlYnNvY2tldCIsImFsbG93SW5zZWN1cmUiOnRydWUsImhvc3QiOiJzYXJpbmEuaWluYXpsYXRhLmluZm8iLCJ0Zm8iOnRydWUsInBhdGgiOiJcL2luZGV4In0#ForSarina
 
 
-## 6. gimpmie.hair [Tool: Shadowsocks](Tools/Shadowsocks.md)
+## gimpmie.hair [Shadowsocks](Tools/Shadowsocks.md)
 ### Android:
 > ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaQ@gimpmie.hair:443?plugin=v2ray-plugin%3Bpath%3Drabbitmq%3Bhost%3Dgimpmie.hair%3Btls
 ### IOS
 > ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaUBnaW1wbWllLmhhaXI6NDQz?tfo=1&uot=1&v2ray-plugin=eyJwYXRoIjoicmFiYml0bXEiLCJtdXgiOnRydWUsInRmbyI6dHJ1ZSwiaG9zdCI6ImdpbXBtaWUuaGFpciIsIm1vZGUiOiJ3ZWJzb2NrZXQiLCJ0bHMiOnRydWV9
 
 
-## 7. inima.site [Tool: Shadowsocks](Tools/Shadowsocks.md)
+## inima.site [Shadowsocks](Tools/Shadowsocks.md)
 ### Android:
 > ss://YWVzLTI1Ni1nY206Zm9yTWFoc2E@inima.site:443?plugin=v2ray-plugin%3Bpath%3D%2Fsimplepath%3Bhost%3Dinima.site%3Btls
 ### iOS
 > ss://YWVzLTI1Ni1nY206Zm9yTWFoc2FAaW5pbWEuc2l0ZTo0NDM?tfo=1&v2ray-plugin=eyJhbGxvd0luc2VjdXJlIjp0cnVlLCJtdXgiOnRydWUsInBhdGgiOiJcL3NpbXBsZXBhdGgiLCJob3N0IjoiaW5pbWEuc2l0ZSIsIm1vZGUiOiJ3ZWJzb2NrZXQiLCJ0bHMiOnRydWV9
 
 
- ## 8. s1.letsdoittogethernow.monster [Tool: Shadowsocks](Tools/Shadowsocks.md)
- ### Android: 
- > ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaQ@s1.letsdoittogethernow.monster:443?plugin=v2ray-plugin%3Bpath%3D%2Frabbitmq%3Bhost%3Ds1.letsdoittogethernow.monster%3Btls
- ### iOS: 
- > ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaUBzMS5sZXRzZG9pdHRvZ2V0aGVybm93Lm1vbnN0ZXI6NDQz?tfo=1&v2ray-plugin=eyJwYXRoIjoiXC9yYWJiaXRtcSIsIm11eCI6dHJ1ZSwidGZvIjp0cnVlLCJob3N0IjoiczEubGV0c2RvaXR0b2dldGhlcm5vdy5tb25zdGVyIiwibW9kZSI6IndlYnNvY2tldCIsInRscyI6dHJ1ZX0=
+## s1.letsdoittogethernow.monster [Shadowsocks](Tools/Shadowsocks.md)
+### Android: 
+> ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaQ@s1.letsdoittogethernow.monster:443?plugin=v2ray-plugin%3Bpath%3D%2Frabbitmq%3Bhost%3Ds1.letsdoittogethernow.monster%3Btls
+### iOS: 
+> ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaUBzMS5sZXRzZG9pdHRvZ2V0aGVybm93Lm1vbnN0ZXI6NDQz?tfo=1&v2ray-plugin=eyJwYXRoIjoiXC9yYWJiaXRtcSIsIm11eCI6dHJ1ZSwidGZvIjp0cnVlLCJob3N0IjoiczEubGV0c2RvaXR0b2dldGhlcm5vdy5tb25zdGVyIiwibW9kZSI6IndlYnNvY2tldCIsInRscyI6dHJ1ZX0=
 
- ## 9. maminimooo.homes [Tool: Shadowsocks](Tools/Shadowsocks.md)
- ### Android: 
- > ss://YWVzLTI1Ni1nY206Q2hzMkphc3Fxb0RWMW5TcHJYcjY@maminimooo.homes:443?plugin=v2ray-plugin%3Bpath%3D%2Frabbitmq%3Bmux%3D2%3Bloglevel%3Dnone%3Bhost%3Dmaminimooo.homes%3Btls
- ### iOS: 
- > ss://YWVzLTI1Ni1nY206Q2hzMkphc3Fxb0RWMW5TcHJYcjZAbWFtaW5pbW9vby5ob21lczo0NDM?tfo=1&v2ray-plugin=eyJwYXRoIjoiXC9yYWJiaXRtcSIsIm11eCI6dHJ1ZSwidGZvIjp0cnVlLCJob3N0IjoibWFtaW5pbW9vby5ob21lcyIsIm1vZGUiOiJ3ZWJzb2NrZXQiLCJ0bHMiOnRydWV9Cg
+## s2.letsdoittogethernow.moster [Shadowsocks](Tools/Shadowsocks.md)
+### Android:
+> ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaQ@s2.letsdoittogethernow.monster:443?plugin=v2ray-plugin%3Btls%3Bhost%3Ds2.letsdoittogethernow.monster%3Bloglevel%3Dnone%3Bpath%3D/testme
+### IOS: 
+> ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaUBzMi5sZXRzZG9pdHRvZ2V0aGVybm93Lm1vbnN0ZXI6NDQz?tfo=1&v2ray-plugin=eyJwYXRoIjoiXC90ZXN0bWUiLCJtdXgiOnRydWUsInRmbyI6dHJ1ZSwiaG9zdCI6InMyLmxldHNkb2l0dG9nZXRoZXJub3cubW9uc3RlciIsIm1vZGUiOiJ3ZWJzb2NrZXQiLCJ0bHMiOnRydWV9
+
+## s3.letsdoittogethernow.moster [Shadowsocks](Tools/Shadowsocks.md)
+### Android:
+> ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaQ@s3.letsdoittogethernow.monster:443?plugin=v2ray-plugin%3Btls%3Bhost%3Ds3.letsdoittogethernow.monster%3Bloglevel%3Dnone%3Bpath%3D/testme
+### IOS:
+> ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaUBzMy5sZXRzZG9pdHRvZ2V0aGVybm93Lm1vbnN0ZXI6NDQz?tfo=1&v2ray-plugin=eyJwYXRoIjoiXC90ZXN0bWUiLCJtdXgiOnRydWUsInRmbyI6dHJ1ZSwiaG9zdCI6InMzLmxldHNkb2l0dG9nZXRoZXJub3cubW9uc3RlciIsIm1vZGUiOiJ3ZWJzb2NrZXQiLCJ0bHMiOnRydWV9
+
+
+## maminimooo.homes [Shadowsocks](Tools/Shadowsocks.md)
+### Android: 
+> ss://YWVzLTI1Ni1nY206Q2hzMkphc3Fxb0RWMW5TcHJYcjY@maminimooo.homes:443?plugin=v2ray-plugin%3Bpath%3D%2Frabbitmq%3Bmux%3D2%3Bloglevel%3Dnone%3Bhost%3Dmaminimooo.homes%3Btls
+### iOS: 
+> ss://YWVzLTI1Ni1nY206Q2hzMkphc3Fxb0RWMW5TcHJYcjZAbWFtaW5pbW9vby5ob21lczo0NDM?tfo=1&v2ray-plugin=eyJwYXRoIjoiXC9yYWJiaXRtcSIsIm11eCI6dHJ1ZSwidGZvIjp0cnVlLCJob3N0IjoibWFtaW5pbW9vby5ob21lcyIsIm1vZGUiOiJ3ZWJzb2NrZXQiLCJ0bHMiOnRydWV9Cg
+
+## nikash.homes [Shadowsocks](Tools/Shadowsocks.md)
+### Android: 
+> ss://YWVzLTI1Ni1nY206N3VKbjMra3lwa1F7bQ@nikash.homes:443?plugin=v2ray-plugin%3Bpath%3D%2Frabbitmq%3Bmux%3D2%3Bloglevel%3Dnone%3Bhost%3Dnikash.homes%3Btls
+### iOS: 
+> ss://YWVzLTI1Ni1nY206N3VKbjMra3lwa1F7bUBuaWthc2guaG9tZXM6NDQz?tfo=1&v2ray-plugin=eyJwYXRoIjoiXC9yYWJiaXRtcSIsIm11eCI6dHJ1ZSwidGZvIjp0cnVlLCJob3N0IjoibmlrYXNoLmhvbWVzIiwibW9kZSI6IndlYnNvY2tldCIsInRscyI6dHJ1ZX0K
+
+## javadp.homes [Shadowsocks](Tools/Shadowsocks.md)
+### Android: 
+> ss://YWVzLTI1Ni1nY206N3VKbjMra3lwa1F7bQ@javadp.homes:443?plugin=v2ray-plugin%3Bpath%3D%2Frabbitmq%3Bmux%3D2%3Bloglevel%3Dnone%3Bhost%3Djavadp.homes%3Btls
+### iOS: 
+> ss://YWVzLTI1Ni1nY206N3VKbjMra3lwa1F7bUBqYXZhZHAuaG9tZXM6NDQz?tfo=1&v2ray-plugin=eyJwYXRoIjoiXC9yYWJiaXRtcSIsIm11eCI6dHJ1ZSwidGZvIjp0cnVlLCJob3N0IjoiamF2YWRwLmhvbWVzIiwibW9kZSI6IndlYnNvY2tldCIsInRscyI6dHJ1ZX0K
+
+
+## miegimp.hair [Shadowsocks](Tools/Shadowsocks.md)
+### Android:
+> ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaQ@miegimp.hair:443?plugin=v2ray-plugin%3Btls%3Bhost%3Dmiegimp.hair%3Bloglevel%3Dnone%3Bpath%3D/rabbitmq
+### iOS:
+> ss://YWVzLTI1Ni1nY206TWFoc2FBbWluaUBtaWVnaW1wLmhhaXI6NDQz?tfo=1&v2ray-plugin=eyJwYXRoIjoiXC9yYWJiaXRtcSIsIm11eCI6dHJ1ZSwidGZvIjp0cnVlLCJob3N0IjoibWllZ2ltcC5oYWlyIiwibW9kZSI6IndlYnNvY2tldCIsInRscyI6dHJ1ZX0
 
 
